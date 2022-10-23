@@ -4694,7 +4694,7 @@
             "variables": {
                 "V0": {
                     "id": "V0",
-                    "name": "MyScore",
+                    "name": "MyScores",
                     "passByReference": true
                 },
                 "V1": {
