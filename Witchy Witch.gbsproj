@@ -4964,6 +4964,11 @@
             "id": "3",
             "name": "FirstTestOne",
             "symbol": "var_firsttestone"
+        },
+        {
+            "id": "4",
+            "name": "UneDonnéeSupp",
+            "symbol": "var_unedonn_esupp"
         }
     ],
     "engineFieldValues": [

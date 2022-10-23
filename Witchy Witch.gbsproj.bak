@@ -4959,6 +4959,11 @@
             "id": "2",
             "name": "PlayerDeath",
             "symbol": "var_playerdeath"
+        },
+        {
+            "id": "3",
+            "name": "FirstTestOne",
+            "symbol": "var_firsttestone"
         }
     ],
     "engineFieldValues": [
